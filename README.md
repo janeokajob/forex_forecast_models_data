@@ -1,2 +1,2 @@
-# forex_forecast_models_results
+# Forex Forecast Models Results
 Results of Comparative Analysis of A Few Forex Forecast Models
