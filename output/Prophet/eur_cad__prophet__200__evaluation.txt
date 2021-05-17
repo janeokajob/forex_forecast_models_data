@@ -1,0 +1,11 @@
+Mean Squared Error (MSE)	0.001243
+Mean Absolute Error (MAE)	0.027980
+Mean Squared Logarithmic Error (MSLE)	0.000195
+Mean Absolute Percentage Error (MAPE)	0.018457
+Median Absolute Error (MedAE)	0.022119
+Mean Gamma Deviance	0.000531
+Mean Poisson Deviance	0.000812
+Mean Tweedie Deviance Error	0.001243
+Explained Variance Regression Score	-0.357230
+Max Residual Error	0.084071
+Coefficient of Determination	-0.408677
